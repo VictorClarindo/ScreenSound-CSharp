@@ -2,11 +2,6 @@
 using ScreenSound.Menus;
 using ScreenSound.Modelos;
 using OpenAI_API;
-// API Key chat: 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
-
-/*
-Trocar API Key por conta nova
-*/
 
 Banda ira = new Banda("Ira!");
 ira.AdicionarNota(new Avaliacao(10));
